@@ -12,6 +12,11 @@
 
 ---
 
+### 🛡️ Technical Focus: Ethical Hacking
+![Cybersecurity](https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=Ethical%20Hacking%20&fontSize=50&animation=fadeIn&fontColor=00FF00)
+
+---
+
 ### 🛠 Tech Stack & Skills
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
