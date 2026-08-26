@@ -27,9 +27,9 @@
 ---
 
 ### 📊 GitHub Stats
-![Sonia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sonia-sonia2&show_icons=true&theme=radical)
+![Sonia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sonia11mansha415&show_icons=true&theme=radical)
 
 ---
 
 ### 🌐 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soniamuhammadmansha)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sonia11mansha415)
