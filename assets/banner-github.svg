@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="400" viewBox="0 0 1600 400" role="img" aria-labelledby="title desc">
+  <title id="title">Sonia Mansha — Security-First Cloud &amp; AI Engineer</title>
+  <desc id="desc">Dark cyber cloud banner with security shield, connected nodes, and cloud engineering motifs.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#02111A"/>
+      <stop offset="0.55" stop-color="#062334"/>
+      <stop offset="1" stop-color="#031A25"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#24D9E8"/>
+      <stop offset="1" stop-color="#58A6FF"/>
+    </linearGradient>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="8" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1600" height="400" fill="url(#bg)"/>
+  <g opacity="0.14" stroke="#58A6FF" stroke-width="1">
+    <path d="M0 330 C220 250 420 370 660 280 S1080 210 1600 300" fill="none"/>
+    <path d="M0 90 C220 150 390 20 640 90 S1080 160 1600 70" fill="none"/>
+    <path d="M240 0V400M480 0V400M720 0V400M960 0V400M1200 0V400M1440 0V400"/>
+    <path d="M0 100H1600M0 200H1600M0 300H1600"/>
+  </g>
+
+  <g transform="translate(92 78)" opacity="0.9">
+    <circle cx="92" cy="88" r="7" fill="#24D9E8"/>
+    <circle cx="35" cy="42" r="5" fill="#58A6FF"/>
+    <circle cx="150" cy="36" r="5" fill="#58A6FF"/>
+    <circle cx="30" cy="145" r="5" fill="#58A6FF"/>
+    <circle cx="154" cy="146" r="5" fill="#58A6FF"/>
+    <circle cx="92" cy="184" r="5" fill="#58A6FF"/>
+    <g stroke="#24D9E8" stroke-width="2" opacity="0.7">
+      <path d="M92 88L35 42M92 88L150 36M92 88L30 145M92 88L154 146M92 88L92 184"/>
+      <path d="M35 42L150 36M30 145L154 146"/>
+    </g>
+    <g transform="translate(10 202)" fill="none" stroke="#7EE8F2" stroke-width="4">
+      <path d="M36 62h104c24 0 39-14 39-33s-15-31-33-32c-7-25-27-40-51-40-24 0-43 13-51 35-4-2-10-3-16-3-20 0-36 15-36 34 0 22 18 39 44 39z"/>
+    </g>
+  </g>
+
+  <rect x="350" y="54" width="2" height="292" fill="#1C313D"/>
+
+  <g transform="translate(410 92)">
+    <text x="0" y="42" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="62" font-weight="700" fill="#E6EDF3">Sonia Mansha</text>
+    <text x="0" y="100" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="31" font-weight="600" fill="#24D9E8">Security-First Cloud &amp; AI Engineer</text>
+    <text x="0" y="148" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="23" fill="#B8C8D1">Cloud Security · Cyber Defense · Secure AI · Automation</text>
+    <g transform="translate(0 195)">
+      <rect x="0" y="0" width="672" height="52" rx="12" fill="#061D28" stroke="#1C313D"/>
+      <text x="24" y="34" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="20" fill="#7EE8F2">Build -> Secure -> Detect -> Investigate -> Automate -> Improve</text>
+    </g>
+  </g>
+
+  <g transform="translate(1260 88)" filter="url(#glow)">
+    <path d="M110 0 205 34v76c0 82-48 143-95 171-47-28-95-89-95-171V34z" fill="#052735" stroke="url(#accent)" stroke-width="5"/>
+    <circle cx="110" cy="102" r="22" fill="none" stroke="#24D9E8" stroke-width="4"/>
+    <circle cx="71" cy="69" r="7" fill="#58A6FF"/>
+    <circle cx="149" cy="69" r="7" fill="#58A6FF"/>
+    <circle cx="65" cy="145" r="7" fill="#58A6FF"/>
+    <circle cx="155" cy="145" r="7" fill="#58A6FF"/>
+    <g stroke="#7EE8F2" stroke-width="3">
+      <path d="M88 91 71 69M132 91 149 69M88 116 65 145M132 116 155 145"/>
+      <path d="M110 124v53"/>
+    </g>
+    <circle cx="110" cy="183" r="7" fill="#24D9E8"/>
+  </g>
+</svg>

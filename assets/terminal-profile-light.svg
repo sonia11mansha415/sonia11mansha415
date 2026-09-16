@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="500" viewBox="0 0 1400 500" role="img" aria-labelledby="t d">
+<title id="t">Sonia Mansha terminal profile</title>
+<desc id="d">Technical profile card summarizing Sonia Mansha's cloud security, detection engineering, Linux, networking and secure AI focus.</desc>
+<rect width="1400" height="500" rx="22" fill="#FFFFFF"/>
+<rect x="14" y="14" width="1372" height="472" rx="18" fill="#F6F8FA" stroke="#D0D7DE" stroke-width="2"/>
+<circle cx="46" cy="43" r="7" fill="#F85149"/>
+<circle cx="69" cy="43" r="7" fill="#D29922"/>
+<circle cx="92" cy="43" r="7" fill="#1A7F37"/>
+<text x="700" y="50" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="16" fill="#57606A">sonia@security-first — portfolio terminal</text>
+<line x1="28" y1="70" x2="1372" y2="70" stroke="#D0D7DE"/>
+
+<text x="92" y="145" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="31" font-weight="700" fill="#0969DA"> SSSSS    M   M</text>
+<text x="92" y="193" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="31" font-weight="700" fill="#0969DA"> S        MM MM</text>
+<text x="92" y="241" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="31" font-weight="700" fill="#0969DA"> SSSS     M M M</text>
+<text x="92" y="289" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="31" font-weight="700" fill="#0969DA">     S    M   M</text>
+<text x="92" y="337" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="31" font-weight="700" fill="#0969DA"> SSSSS    M   M</text>
+<text x="92" y="412" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="16" fill="#57606A">security · systems · cloud · ai</text>
+<text x="92" y="446" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="15" fill="#57606A">SM // terminal identity prototype</text>
+<line x1="510" y1="100" x2="510" y2="449" stroke="#D0D7DE"/>
+<text x="565" y="120" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="25" font-weight="700" fill="#24292F">sonia@security-first</text>
+<text x="565" y="151" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="16" fill="#57606A">evidence-driven engineering profile</text>
+<text x="565" y="202" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="18" fill="#0969DA">role</text>
+<text x="700" y="202" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="18" fill="#0550AE">Security-First Cloud &amp; AI Engineer</text>
+<text x="565" y="236" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="18" fill="#0969DA">defense</text>
+<text x="700" y="236" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="18" fill="#0550AE">Detection · SOC · Incident Response</text>
+<text x="565" y="270" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="18" fill="#0969DA">cloud</text>
+<text x="700" y="270" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="18" fill="#0550AE">AWS · Google Cloud · Cloud Run</text>
+<text x="565" y="304" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="18" fill="#0969DA">systems</text>
+<text x="700" y="304" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="18" fill="#0550AE">Linux · DNS · Networking</text>
+<text x="565" y="338" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="18" fill="#0969DA">ai</text>
+<text x="700" y="338" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="18" fill="#0550AE">Gemini · ADK · RAG · MCP</text>
+<text x="565" y="372" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="18" fill="#0969DA">build</text>
+<text x="700" y="372" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="18" fill="#0550AE">Python · React · TypeScript · Node</text>
+<text x="565" y="406" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="18" fill="#0969DA">method</text>
+<text x="700" y="406" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="18" fill="#0550AE">Build -&gt; Secure -&gt; Detect -&gt; Investigate</text>
+<text x="700" y="440" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="18" fill="#0550AE">-&gt; Automate -&gt; Improve</text>
+<rect x="565" y="455" width="10" height="20" fill="#1A7F37">
+      <animate attributeName="opacity" values="1;1;0;0" dur="1.2s" repeatCount="indefinite"/>
+    </rect>
+<text x="585" y="471" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="16" fill="#57606A">portfolio ready</text>
+</svg>
